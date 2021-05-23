@@ -2,7 +2,7 @@
 
 Model yang baik adalah model yang mampu memberikan **performa bagus di fase training dan testing**. Ada 3 kondisi performa model:
 - **Over-Fitting** : model mampu memprediksi dengan sangat baik di fase training, akan tetapi tidak mampu memprediksi sama baiknya di fase testing.
-- **Under-Fitting** : model kurang mampu memprediksi dengan baik di fase training, akan tetapi mampu memprediksi dengan baik di fase testing.
+- **Under-Fitting** : model kurang mampu memprediksi dengan baik di fase training maupun fase testing.
 - **Appropriate-Fitting** : model mampu memprediksi dengan baik di fase training maupun di fase testing.
 
 # Choosing Algorithm
